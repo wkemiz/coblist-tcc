@@ -1,4 +1,4 @@
-# Sistema de Cobrança - Laravel
+# COBLIST - Sistema de Controle de Cobrança
 
 # Descrição do Projeto
 Sistema de gerenciamento de clientes e cobranças desenvolvido em **Laravel 10**.  
@@ -20,6 +20,7 @@ O objetivo do sistema é facilitar o controle de pagamentos, acordos e honorári
 - Autenticação: Login/logout protegendo todas as páginas do sistema.
 - Layout clean e responsivo: Cores pastel, fácil navegação.
 - Validações de formulário: CPF único, campos obrigatórios e mensagens de erro.
+- Exportação de Relatórios.
 
 
 # Rotas do Sistema
@@ -44,7 +45,7 @@ O objetivo do sistema é facilitar o controle de pagamentos, acordos e honorári
 
 #  Tecnologias Usadas
 - Backend: PHP 8.2, Laravel 10  
-- Banco de Dados: MySQL  
+- Banco de Dados: SQLite  
 - Frontend: Blade, HTML, CSS, JavaScript  
 
 
